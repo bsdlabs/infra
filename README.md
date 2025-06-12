@@ -1,4 +1,4 @@
-![bsdlabs logo](https://avatars.githubusercontent.com/u/16466538?s=200&v=4) 
+![bsdlabs logo](https://github.com/bsdlabs/infra/blob/main/bsdlabs%20logo%20sm.png) 
 # bsdlabs infrastructure project
 
 [Team](https://github.com/orgs/bsdlabs/teams/infrastructure)
