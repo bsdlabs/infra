@@ -1,5 +1,5 @@
 ![bsdlabs logo small](https://github.com/bsdlabs/infra/blob/main/bsdlabs%20logo%20sm.png) 
-# bsdlabs onboarding
+# bsdlabs infrastructure onboarding
 1. Contact a [team member](https://github.com/orgs/bsdlabs/teams/infrastructure)
    
    Please include contact information such as your Discord username, e-mail, areas of expertise and other pertinent information.
