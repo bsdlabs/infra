@@ -5,6 +5,6 @@ The following commands can be executed to (1) create a container from an image a
 2. ```sudo podman attach <container id>```
 3. With your container focused: ```Ctrl+p then Ctrl+q```
 
-Podman also allows for the downloading and importing of an image:
+Podman also allows for the downloading and importing of an image:<br>
 ```sudo podman pull ghcr.io/freebsd/freebsd-runtime:14.3```
 
